@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmanKumar9378
+- 👋 Hi, I’m Aman Kumar
 - 👀 I’m interested in Full Stack web Developement, Software Developement
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT
 - 💞️ I’m looking to collaborate on ...
